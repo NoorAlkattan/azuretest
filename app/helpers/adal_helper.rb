@@ -1,0 +1,2 @@
+module AdalHelper
+end
